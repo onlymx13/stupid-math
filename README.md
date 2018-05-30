@@ -1,0 +1,2 @@
+# stupid-math
+SPL code
